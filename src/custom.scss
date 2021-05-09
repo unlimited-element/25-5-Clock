@@ -1,0 +1,13 @@
+/* The following block can be included in a custom.scss */
+
+
+$primary: blue;
+$secondary: white;
+$success: purple;
+$warning: orange;
+$danger: black;
+$info: white;
+$light: lightgrey;
+$dark: teal;
+
+@import "~bootstrap/scss/bootstrap";
