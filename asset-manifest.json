@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/25-5-Clock/static/css/main.3e0d91a5.chunk.css",
+    "main.js": "/25-5-Clock/static/js/main.3d99cfa7.chunk.js",
+    "main.js.map": "/25-5-Clock/static/js/main.3d99cfa7.chunk.js.map",
+    "runtime-main.js": "/25-5-Clock/static/js/runtime-main.cab9b12b.js",
+    "runtime-main.js.map": "/25-5-Clock/static/js/runtime-main.cab9b12b.js.map",
+    "static/css/2.800be05e.chunk.css": "/25-5-Clock/static/css/2.800be05e.chunk.css",
+    "static/js/2.71533fb0.chunk.js": "/25-5-Clock/static/js/2.71533fb0.chunk.js",
+    "static/js/2.71533fb0.chunk.js.map": "/25-5-Clock/static/js/2.71533fb0.chunk.js.map",
+    "static/js/3.d8a405e2.chunk.js": "/25-5-Clock/static/js/3.d8a405e2.chunk.js",
+    "static/js/3.d8a405e2.chunk.js.map": "/25-5-Clock/static/js/3.d8a405e2.chunk.js.map",
+    "index.html": "/25-5-Clock/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/25-5-Clock/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.3e0d91a5.chunk.css.map": "/25-5-Clock/static/css/main.3e0d91a5.chunk.css.map",
+    "static/js/2.71533fb0.chunk.js.LICENSE.txt": "/25-5-Clock/static/js/2.71533fb0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cab9b12b.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.71533fb0.chunk.js",
+    "static/css/main.3e0d91a5.chunk.css",
+    "static/js/main.3d99cfa7.chunk.js"
+  ]
+}
